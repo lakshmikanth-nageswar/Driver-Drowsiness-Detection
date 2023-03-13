@@ -7,5 +7,5 @@ Models folder should contain data file of size 90MB. Unable to upload that file 
 Thank you.
 
 
-Drive link: https://drive.google.com/drive/folders/11uD7Udj8EAbYEjm2g6A4Y7JxJZrudw3F?usp=sharing
+Drive link: https://drive.google.com/drive/folders/1JnvGrEEj-556WG4JXcA0471FDzpzTBoY?usp=share_link
 
